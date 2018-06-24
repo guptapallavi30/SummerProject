@@ -1,0 +1,14 @@
+
+#div1 {
+    width:80px;
+    height:80px;
+    display:none;
+    background-color:yellow;
+} 
+
+.div2 {
+    width:80px;
+    height:80px;
+    display:none;
+    background-color:green;
+}
